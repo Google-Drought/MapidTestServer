@@ -1,6 +1,8 @@
 Running MapidTestServer
 -----------------------
 
+Note: These instructions are for Mac OS.
+
 1) Clone repo to your local machine. 
   
 2) Edit MapidTestServer/index.js to point to your directory,  
